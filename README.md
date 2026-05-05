@@ -1,4 +1,4 @@
-# ClubRoboticaCB94
+# Club de Robótica CBTis No. 94
 Repositorio para los proyectos demostrativos del Club de Robótica CB94.
 
 # 🤖 Proyectos de Robótica - Arduino
