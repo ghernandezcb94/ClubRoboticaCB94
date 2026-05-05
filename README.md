@@ -19,9 +19,14 @@ Servir como una biblioteca centralizada de código, diagramas y documentación p
 El repositorio está organizado por niveles de dificultad:
 
 * **`01_Basicos/`**: Proyectos introductorios (Hola mundo, manejo de LEDs, lectura de botones).
-* **`02_Sensores/`**: Uso de sensores ultrasónicos, PIR, temperatura (DHT11), infrarrojos, etc.
-* **`03_Actuadores/`**: Control de servomotores, motores DC (puente H) y displays LCD.
-* **`04_Proyectos_Integradores/`**: Proyectos completos (Seguidores de línea, robots esquiva-obstáculos, brazos robóticos).
+* **`02_Intermedios/`**: Proyectos de nivel intermedio (combinando circuitos básicos, uso básico de sensores o actuadores simples).
+* **`03_Avanzados/`**: Proyectos avanzados (incorporando una variedad de sensores y actuadores, enviado y recibiendo datos desde APIs u otros medios).
+* **`04_Sensores/`**: Uso de sensores ultrasónicos, PIR, temperatura (DHT11), infrarrojos, etc.
+* **`05_Actuadores/`**: Control de servomotores, motores DC (puente H) y displays LCD.
+* **`06_Proyectos_Integradores/`**: Proyectos completos (Seguidores de línea, robots esquiva-obstáculos, brazos robóticos).
+
+* **`docs/`**: Documentación de apoyo general para diversos sensores, actuadores, etc.
+* **`assets/`**: Diagramas de conexión generales.
 
 ---
 
